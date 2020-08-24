@@ -1,0 +1,12 @@
+.todoDiv {
+    text-align: center;
+}
+
+.taskList {
+    border: 0px solid #47476b;
+    border-color:black;
+    background: #c2c2d6;
+    position: relative;
+    left: 40%;
+    width: 20%;
+}
